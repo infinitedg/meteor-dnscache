@@ -1,0 +1,1 @@
+DNSCACHE = Npm.require('dnscache');
